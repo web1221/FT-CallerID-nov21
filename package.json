@@ -1,7 +1,7 @@
 {
-  "name": "",
+  "name": "lookupthing",
   "version": "1.0.0",
-  "description": "",
+  "description": "### Description #### This website will...:",
   "main": "index.js",
   "scripts": {
     "build": "webpack --mode development",
@@ -17,6 +17,7 @@
     "@babel/plugin-transform-modules-commonjs": "^7.6.0",
     "clean-webpack-plugin": "3.0.0",
     "css-loader": "^3.2.0",
+    "dotenv-webpack": "^1.7.0",
     "eslint": "^6.3.0",
     "eslint-loader": "^3.0.0",
     "html-webpack-plugin": "^3.2.0",
@@ -31,5 +32,13 @@
     "bootstrap": "^4.3.1",
     "jquery": "^3.4.1",
     "popper.js": "^1.16.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eliza85/lookupthing.git"
+  },
+  "bugs": {
+    "url": "https://github.com/eliza85/lookupthing/issues"
+  },
+  "homepage": "https://github.com/eliza85/lookupthing#readme"
 }
