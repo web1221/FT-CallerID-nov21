@@ -40,3 +40,6 @@ module.exports = {
     ]
   }
 };
+API_KEY = d92090f138e84f909ff135651fa49554
+OTHER_API_KEY = 2_qOFvjc
+OTHER_API_KEY2 = Kq1KR49eb-2LR5GbMZJvFHhpRyID_yX37ft3luu_xdRYda1th5dYhNUOsDUj8DpS
